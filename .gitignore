@@ -1,3 +1,11 @@
+binary old/
+dataset/
+extra/
+mri/
+mri_compressed/
+mri_decompressed/
+test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
