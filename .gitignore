@@ -4,6 +4,9 @@ extra/
 mri/
 mri_compressed/
 mri_decompressed/
+mri_mini/
+mri_mini_compressed/
+mri_mini_decompressed/
 test.py
 
 # Byte-compiled / optimized / DLL files

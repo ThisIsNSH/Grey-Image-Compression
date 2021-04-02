@@ -1,2 +1,2 @@
 # Grey-Image-Compression
-New algorithm to compress grey scale medical images.
+New algorithm to compress grey scale images.

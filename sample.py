@@ -2,7 +2,7 @@ import os
 from compression import compress, decompress
 
 degree = 2
-directory1 = 'mri'
+directory1 = 'mri_mini'
 directory2 = directory1 + '_compressed'
 directory3 = directory1 + '_decompressed'
 
